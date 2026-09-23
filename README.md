@@ -1,3 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)
+#
 # DS4 Lightbar
 
 DS4 Lightbar is a Windows desktop app for controlling the DualShock 4 lightbar. Build 1.0 focuses on the core workflow: detect the controller, choose how the light should behave, adjust brightness and transition speed, and keep the app running quietly from the system tray.
@@ -271,5 +273,7 @@ Suggested license:
 
 - MIT, if you want a permissive license
 - GPL, if you want modifications to remain open source
-
+#
 Avoid using official PlayStation or Sony artwork unless you have the right license. Keep the project visually distinct and include the affiliation disclaimer.
+#
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)
