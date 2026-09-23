@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #
 # DS4 Lightbar
 
@@ -276,4 +276,4 @@ Suggested license:
 #
 Avoid using official PlayStation or Sony artwork unless you have the right license. Keep the project visually distinct and include the affiliation disclaimer.
 #
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png) ![DS4Lightbar app icon](assets/icon.png)![DS4Lightbar app icon](assets/icon.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
