@@ -1,0 +1,47 @@
+# Build output
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Qt generated files
+.qt/
+.rcc/
+*.qmlc
+*.jsc
+
+# IDE and editor state
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Binaries and deployment output
+dist/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+*.a
+*.lib
+
+# vcpkg local installs
+vcpkg_installed/
+
+# Archived local prototype
+legacy-sdl/
+
+# Runtime logs and local data
+*.log
+runtime.log
+
+# OS files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "qt-mingw-debug",
+      "displayName": "Qt MinGW Debug",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/qt-mingw-debug",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_PREFIX_PATH": "F:/Qt/6.11.2/mingw_64",
+        "CMAKE_TOOLCHAIN_FILE": "F:/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-mingw-dynamic",
+        "CMAKE_MAKE_PROGRAM": "F:/Qt/Tools/Ninja/ninja.exe",
+        "CMAKE_C_COMPILER": "F:/Qt/Tools/mingw1310_64/bin/x86_64-w64-mingw32-gcc.exe",
+        "CMAKE_CXX_COMPILER": "F:/Qt/Tools/mingw1310_64/bin/x86_64-w64-mingw32-g++.exe",
+        "QT_CREATOR_SKIP_VCPKG_SETUP": "ON"
+      },
+      "environment": {
+        "PATH": "F:/Qt/Tools/mingw1310_64/bin;$penv{PATH}"
+      }
+    },
+    {
+      "name": "qt-mingw-release",
+      "displayName": "Qt MinGW Release",
+      "inherits": "qt-mingw-debug",
+      "binaryDir": "${sourceDir}/build/qt-mingw-release",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "qt-mingw-debug",
+      "configurePreset": "qt-mingw-debug",
+      "environment": {
+        "PATH": "F:/Qt/Tools/mingw1310_64/bin;$penv{PATH}"
+      }
+    },
+    {
+      "name": "qt-mingw-release",
+      "configurePreset": "qt-mingw-release",
+      "environment": {
+        "PATH": "F:/Qt/Tools/mingw1310_64/bin;$penv{PATH}"
+      }
+    }
+  ]
+}

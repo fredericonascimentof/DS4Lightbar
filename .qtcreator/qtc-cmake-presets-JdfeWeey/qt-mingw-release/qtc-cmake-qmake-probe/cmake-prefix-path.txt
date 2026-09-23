@@ -1,0 +1,1 @@
+F:/vcpkg/installed/x64-windows/debug;F:/vcpkg/installed/x64-windows;F:/Qt/6.11.2/mingw_64
